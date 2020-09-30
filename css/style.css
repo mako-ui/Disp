@@ -1,0 +1,76 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+/*This is a commnet*/
+.mainDiv {
+    background-color: cadetblue;
+    height: 600px;
+    width: 600px;
+    margin: 0 auto;
+    font-size: 0;
+}
+
+.mainDiv > div {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 0 ;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+.red1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    background-color: red;
+}
+.yellow2 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.green3 {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    background-color: green;
+}
+.red4 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: red;
+}
+.yellow5 {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    background-color: yellow;
+}
+.green6 {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    background-color: green;
+}
+.red7 {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    background-color: red;
+}
+.yellow8 {
+    height: 200px;
+    width: 200px;
+    border-radius: 0%;
+    background-color: yellow;
+}
+.green9 {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: green;
+}
+
